@@ -17,4 +17,9 @@
       expect(add("10,20,30")).toBe(60);
     });
 
+    test("should handle newlines as delimiters", () => {
+      expect(add("1\n2,3")).toBe(6);
+    });
+
+
 
