@@ -11,5 +11,15 @@
 To install this project, follow these steps:
 
 1. Clone the repository:
+```bash
+git clone git@github.com:amarpimpale98/tdd-test.git
+
+2.cd tdd-test
+
+3.npm install
+
+4.npm test
+
+
 
 
